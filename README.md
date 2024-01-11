@@ -1,2 +1,2 @@
 # apna-college-demo
-author - Sejal Mankar
+This is my first Git Repository author - Sejal Mankar
